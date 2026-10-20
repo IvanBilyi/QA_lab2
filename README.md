@@ -18,7 +18,7 @@ The main objectives include:
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 * `Лабораторна робота №2 Білий Іван ІО-34.pdf` — Complete laboratory report including execution steps, embedded terminal output with timestamps/identity verification, and QA documentation.
 * `dhcpd.conf` — ISC DHCP server configuration file defining the subnet parameters (`10.0.2.0/24`) and dynamic address lease range (`10.0.2.50` – `10.0.2.100`).
 * `dhcp_conflict.pcapng` — Wireshark network capture file demonstrating the Rogue DHCP conflict (multiple `DHCPOFFER` frames responding to a single `DHCPDISCOVER`).
